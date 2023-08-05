@@ -1,0 +1,43 @@
+.post-data{
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    width:30%;
+    margin:auto;
+    margin-top: 5%;
+    height:430px;
+    border-radius: 8px;
+    padding: 2%;
+}
+.post-data>h1{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.post-data>form{
+    /* border:2px solid red; */
+    width:80%;
+    margin: auto
+}
+
+form>div>input{
+    border:1px solid rgba(0, 0, 0, 0.267);
+    width: 95%;
+    padding:3%;
+    border-radius: 5px;
+    margin: 3%;
+    font-family: sans-serif
+
+}
+.newbutton{
+    border:1px solid black;
+    width: 95%;
+    padding:2%;
+    border-radius: 5px;
+    margin-left: 3%;
+    margin-top: 2%;
+    background-color: black;
+    color:white;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.newbutton:hover{
+    background-color: white;
+    color: black;
+}

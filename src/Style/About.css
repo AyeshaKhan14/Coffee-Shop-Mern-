@@ -1,0 +1,59 @@
+.paraCont{
+    /* border:2px solid black; */
+    width:40%;
+    margin:auto;
+    margin-top: 18px;
+}
+.paraCont>h1{
+    text-align: center;
+    font-style: italic;
+}
+
+.coffeepara>p{
+    font-style: italic;
+    color:rgba(32, 30, 30, 0.786)
+}
+.review{
+    /* border:2px solid red; */
+    width:80%;
+    margin:auto;
+    height:auto;
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+    grid-template-rows: auto;
+    gap:20px;
+    margin-top: 2%;
+}
+.review>div{
+    box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
+    width:300px;
+    border-radius: 5px;
+    padding: 10px;
+   
+}
+.review>div>img{
+    height:200px;
+    width:250px;
+    margin-left: 4%;
+    border-radius: 5px;
+
+}
+.review>div>p{
+    color:rgb(66, 57, 57);
+    font-size: 16px;
+    font-family: sans-serif;
+}
+h4{
+    text-align: center;
+    margin-top: 15px;
+}
+.aboutUS{
+    /* border:2px solid red; */
+    width:80%;
+    margin:auto;
+    margin-top: 4%;
+}
+.aboutUS>h2{
+    text-align: center;
+    text-decoration: underline;
+}

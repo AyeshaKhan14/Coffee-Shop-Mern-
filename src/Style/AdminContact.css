@@ -1,0 +1,35 @@
+
+.newCont>h1{
+    text-align: center;
+    margin-top: 3%;
+    font-size: 24px;
+    font-family: sans-serif;
+    font-weight: 600;
+}
+.newtable{
+    /* border:2px solid yellow; */
+    width:60%;
+    margin:auto;
+    display: flex;
+    justify-content: center;
+    margin-top: 2%;
+}
+.newtable>table{
+    border: 2px solid black;
+}
+.newtable>table>thead>tr{
+    border:2px solid black;
+    text-align: center;
+}
+.newtable>table>thead>tr>th{
+    border:2px solid black;
+    text-align: center;
+}
+tbody>tr{
+    border:2px solid black;
+    text-align: center;
+}
+tbody>tr>td{
+    border:2px solid black;
+    text-align: center;
+}

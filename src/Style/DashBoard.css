@@ -1,0 +1,29 @@
+.table-div{
+    display: flex;
+    justify-content: center;
+    margin-top: 5%;
+}
+table>thead{
+    border:2px solid black;
+    width:80%;
+}
+table>thead>tr>th{
+    border:2px solid black;
+}
+tr,th,td{
+    border:2px solid black;  
+   text-align: center;
+}
+.dash{
+    /* border:2px solid red;   */
+    width:80%;
+    margin: auto;
+    margin-top: 4%;
+}
+.dash>h1{
+    text-align: center;
+    font-size: 30px;
+}
+button{
+    color:red
+}

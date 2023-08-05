@@ -1,0 +1,29 @@
+.nav2-cont{
+    width:100%;
+    display: flex;
+    height:45px;
+    background-color: black;
+    justify-content: space-between;
+    align-items: center;
+    position: sticky;
+    top: 0;
+    z-index: 100;
+   
+}
+.nav2-div1{
+    display: flex;
+    gap:40px;
+   margin-right: 15px;
+   color:white
+     
+}
+a{
+    text-decoration: none;
+    font-size: 20px;
+}
+.add{
+    margin-left: 15px;
+    color:white;
+    display: flex;
+    gap:35px;
+}

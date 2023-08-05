@@ -1,0 +1,70 @@
+.sig-cont-2{
+    /* border:2px solid black; */
+    width:50%;
+    margin:auto;
+    margin-top: 5%;
+}
+
+.sign-form{
+    border:1px solid rgba(68, 66, 66, 0.075);
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+     height:80%;
+     width:80%;
+     margin: auto;
+     padding:4%;
+     background-color: rgba(97, 94, 94, 0.077);
+     border-radius: 5px;
+  
+}
+.sign-form>h1{
+  text-align: center;
+  color: black;
+  font-size: 35px;
+  font-weight: 500;
+}
+.form-box{
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    background-color: white;
+   width: 80%;
+   margin:auto;
+   margin-top: 4%;
+   padding: 10%;
+   border-radius: 5px;
+  
+   
+}
+input{
+    border:1px solid rgba(0, 0, 0, 0.267);
+    width: 90%;
+    padding:2%;
+    border-radius: 5px;
+    margin: 3%;
+    font-family: sans-serif
+
+}
+.butn{
+    border:1px solid black;
+    width: 100%;
+    padding:2%;
+    border-radius: 5px;
+    margin-left: 3%;
+    margin-top: 2%;
+    background-color: black;
+    color:white;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.butn:hover{
+    background-color: white;
+    color: black;
+}
+.span-div{
+/* border:1px solid black; */
+margin-top: 5%;
+display: flex;
+align-items: center;
+justify-content: center;
+font-family:  sans-serif;
+font-weight: 540;
+font-size: 16px;
+font-style: italic;
+}

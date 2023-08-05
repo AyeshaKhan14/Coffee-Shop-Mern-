@@ -1,0 +1,17 @@
+table>thead{
+    border:2px solid black;
+   
+}
+table>thead>tr>th{
+    border:2px solid black;
+}
+.table-div1{
+    margin-top: 5%;
+    display: flex;
+    justify-content: center;
+   
+   
+}
+table{
+    width:70%
+}
